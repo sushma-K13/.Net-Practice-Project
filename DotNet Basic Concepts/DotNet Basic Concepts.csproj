@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Solid Principles\Stratergies\" />
+    <Compile Remove="Solid Principles\Stratergies\**" />
+    <EmbeddedResource Remove="Solid Principles\Stratergies\**" />
+    <None Remove="Solid Principles\Stratergies\**" />
   </ItemGroup>
 
 </Project>
