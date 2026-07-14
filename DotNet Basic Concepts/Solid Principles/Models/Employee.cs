@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic_DotNet_Concepts.Solid_Principles.Models
 {
-    internal class Employee
+    public class Employee
     {
         // Unique Employee Id
         public int Id { get; set; }

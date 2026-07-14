@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Basic_DotNet_Concepts.Solid_Principles.Interfaces
 {
-    internal interface ISalaryCalculator
+    public interface ISalaryCalculator
     {
         double CalculateSalary(Employee employee);
     }

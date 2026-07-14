@@ -9,8 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Solid Principles\Notifications\" />
-    <Folder Include="Solid Principles\Shapes\" />
     <Folder Include="Solid Principles\Stratergies\" />
   </ItemGroup>
 
